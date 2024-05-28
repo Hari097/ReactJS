@@ -1,0 +1,17 @@
+.browser-list{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    justify-content: space-between;
+}
+.historylist{
+    display: flex;
+}
+.historylist p{
+    margin: 10px;
+}
+button{
+    background-color: transparent;
+    border: 0px;
+}
